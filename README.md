@@ -1,7 +1,5 @@
 # ERVCP
 
-
-
 ERVCP is a first in it's class, one of a kind Enterprise-Ready Visitor Counting Platform. Every time someone visits your website, the counter goes up.
 
 ## Dependencies
